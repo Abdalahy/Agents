@@ -1,0 +1,9 @@
+This here is for my questions and the uncompleted the methods for my go agents
+
+-How do I complete the go agent gather acc funtion, and I need to create a service do I do that
+
+- How do I test my work to make sure it is error proof
+
+- how do I make sure I important all the libraies that I need to work
+
+- anyother advice or thoughts
